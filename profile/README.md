@@ -35,10 +35,20 @@ Roles in the ZAO are hats on the ZAO Hats tree (Optimism). A free hat is your fi
 |---|---|
 | [ZAOmemberz](https://github.com/ZAODEVZ/ZAOmemberz) | One profile per member, anchored to a wallet, readable by every ZAO app |
 | [ZAOcowork](https://github.com/ZAODEVZ/ZAOcowork) | The ZAO ops tracker: one Kanban board plus a Telegram bot, live at [thezao.xyz](https://www.thezao.xyz) |
-| [zao-harness](https://github.com/ZAODEVZ/zao-harness) | One setup for every ZAO dev and agent |
+| [zao-harness](https://github.com/ZAODEVZ/zao-harness) | The guide to coding harnesses: pick the setup that fits you, plus the ZAO rules for any agent |
 | [zao-chat-window](https://github.com/ZAODEVZ/zao-chat-window) | One script tag adds a chat window to any site; ideas land as GitHub issues |
 | [ZAOscout](https://github.com/ZAODEVZ/ZAOscout) | Read Reddit, X and Farcaster from the command line, no API keys |
 | [ZAOsribeBOT](https://github.com/ZAODEVZ/ZAOsribeBOT) | Discord voice and meeting capture into the research pipeline |
+
+## Pick a harness
+The setups people use to run AI coding agents, linked from [zao-harness](https://github.com/ZAODEVZ/zao-harness). Built your own? Add a row there with a PR.
+
+| Harness | Built by | Good if you | Link |
+|---|---|---|---|
+| zorca on Orca | Zaal | want the setup The ZAO runs on, many agents at once | [zorca](https://github.com/bettercallzaal/zorca) |
+| Orca | Stably | want many agents side by side, free and open source | [orca](https://github.com/stablyai/orca) |
+| Claude Code + ZAO rules | The ZAO | want one agent in the terminal | [zao-harness](https://github.com/ZAODEVZ/zao-harness) |
+| Codex + ZAO rules | The ZAO | already pay for ChatGPT | [zao-harness](https://github.com/ZAODEVZ/zao-harness) |
 
 ## Join
 Come to a Monday Fractal, open a Spark, or pick an open issue on any repo. [thezao.com](https://thezao.com)
